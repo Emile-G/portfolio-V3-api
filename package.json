@@ -1,0 +1,27 @@
+{
+  "name": "portfolio-v3-api",
+  "version": "1.0.0",
+  "description": "My personnal API for my future V3 portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emile-G/portfolio-V3-api.git"
+  },
+  "author": "Emile-G",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Emile-G/portfolio-V3-api/issues"
+  },
+  "homepage": "https://github.com/Emile-G/portfolio-V3-api#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-unless": "^1.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.10"
+  }
+}
